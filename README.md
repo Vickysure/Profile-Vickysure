@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Ukachi Victor Chiemela</h1>
 <h3 align="center">A passionate Data Professional, Base in Lagos, Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickysure&label=Profile%20views&color=0e75b6&style=flat" alt="vickysure" /> </p>
+<p align="left"> <img src="screenshots/profile-picture.png/ghpvc/?username=vickysure&label=Profile%20views&color=0e75b6&style=flat" alt="vickysure" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickysure" alt="vickysure" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 -  I regularly write articles on [https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8PNNNr9kQ1axbF5lc7xFLQ%3D%3D](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8PNNNr9kQ1axbF5lc7xFLQ%3D%3D)
 
--  Ask me about **Python, SQL, Excel**
+-  Ask me about **Python, SQL, Excel, Power BI**
 
 -  How to reach me **ukadovicky07@gmail.com | +2348104951975**
 
