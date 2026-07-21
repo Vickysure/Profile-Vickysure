@@ -1,7 +1,9 @@
 <h1 align="center">Hello , I'm Ukachi Victor Chiemela</h1>
 <h3 align="center">A passionate Data Professional, Base in Lagos, Nigeria</h3>
 
-<p align="left"> <img src="profile-picture.jpeg" /> </p>
+<p align="left">
+<img src="./profile-picture.jpeg" width="90">
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickysure" alt="vickysure" /></a> </p>
 
