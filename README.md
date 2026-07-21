@@ -5,8 +5,6 @@
 <img src="./profile-picture.jpeg" width="200">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickysure" alt="vickysure" /></a> </p>
-
 -  I’m currently working on [Sales Forecasting Engine](http://localhost:8888/notebooks/Victor's%20Case%20Study%20Project%201.ipynb?)
 
 -  I’m currently learning **Python**
